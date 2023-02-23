@@ -27,6 +27,9 @@
 - Instead of using multioutput functions during training, which some machine learning algorithms are not designed for, y1 and y2 are combined. As a result, y1 and y2 receive distinct training.
 - As Y1 and Y2 were trained independently, accuracy was good.
 
+### Future Work 
+- Hyperparameter Tuning
+- Getting Higher accuracy by combining y1 and y2
 
 
 
